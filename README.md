@@ -1,2 +1,2 @@
 # yolo
-voc for yolo
+voc dataset for yolo
